@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img{ 
+    width: 890px;
+    height: 570px;
+    color: brown;
+}
